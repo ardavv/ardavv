@@ -6,7 +6,7 @@
 
 <div align="center">
     <p>
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpxbW5nN2FyOGNwNjlyNTgzbHB2Mmx0N2t3NHoweDA3YXZmb3IwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Descriptive Text for the GIF" />
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpxbW5nN2FyOGNwNjlyNTgzbHB2Mmx0N2t3NHoweDA3YXZmb3IwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Descriptive Text for the GIF" height="200"/>
     </p>
 </div>
 
