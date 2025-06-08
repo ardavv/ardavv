@@ -4,6 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on full-stack web apps using **React.js**, **Node.js**, and **Supabase**<br>🌱 I’m currently learning **Next JS**, **Express JS**, and exploring **Data Science**<br>🤝 I’m looking to collaborate on open-source projects related to **Social Goods**, **Data-driven applications and dashboards**, or **Smart systems using web + IoT**<br>💬 Feel free to ask me about anything tech-related — especially React, Express, IoT, or beginner-friendly Data Science!<br>
 
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ardav26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ardav1449) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryadavi276@gmail.com) 
