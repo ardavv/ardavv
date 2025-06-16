@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ardav</h1>
-<h3 align="center">A Web Developer, Data Enthusiast, and 5th-Semester Computer Science Student in Indonesia</h3>
+<h3 align="center">A Web Developer, Data Enthusiast, and 4th-Semester Computer Science Student in Indonesia</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on full-stack web apps using **React.js**, **Node.js**, and **Supabase**<br>🌱 I’m currently learning **Next JS**, **Express JS**, and exploring **Data Science**<br>🤝 I’m looking to collaborate on open-source projects related to **Social Goods**, **Data-driven applications and dashboards**, or **Smart systems using web + IoT**<br>💬 Feel free to ask me about anything tech-related — especially React, Express, IoT, or beginner-friendly Data Science!<br>
